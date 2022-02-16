@@ -1,0 +1,43 @@
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /home/breno/Sync/Documents/scala/parser-combinator/hello-world-template/target/scala-3.1.0/classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ParserCombinators$package$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ParserCombinators$package$given_Monad_Parser$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ParserCombinators$package$$anon$9.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ParserCombinators$package$$anon$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ParserCombinators$package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ParserCombinators$package$$anon$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Functor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ParserCombinators$package$$anon$6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ParserCombinators$package$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ParserCombinators$package$$anon$7.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Parser.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Monad.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ParserCombinators$package$$anon$8.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ParserCombinators$package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ParserCombinators$package$given_Functor_Parser$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ParserCombinators$package$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ParserCombinators$package$$anon$2.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$package.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ParserCombinators$package$given_Monad_Parser$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ParserCombinators$package$$anon$9.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ParserCombinators$package$$anon$5.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ParserCombinators$package$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ParserCombinators$package$$anon$4.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Functor.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ParserCombinators$package$$anon$6.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ParserCombinators$package$$anon$1.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ParserCombinators$package$$anon$7.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Parser.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Monad.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$package$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ParserCombinators$package$$anon$8.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ParserCombinators$package.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ParserCombinators$package$given_Functor_Parser$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ParserCombinators$package$$anon$3.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /home/breno/Sync/Documents/scala/parser-combinator/hello-world-template/target/scala-3.1.0/classes.bak[0m

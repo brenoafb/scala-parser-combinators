@@ -1,0 +1,10 @@
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E040] Syntax Error: /home/breno/Sync/Documents/scala/parser-combinator/hello-world-template/src/main/scala/Main.scala:1:17 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m1 |[0m[35m@main[0m [33mdef[0m [36mmain[0m() {[0m
+[0m[[0m[31merror[0m] [0m[0m  |                 [31m^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m  |                 '=' expected, but '{' found[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E018] Syntax Error: /home/breno/Sync/Documents/scala/parser-combinator/hello-world-template/src/main/scala/Main.scala:4:0 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m4 |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m  |[31m^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m  |expression expected but [31meof[0m found[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
